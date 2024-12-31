@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="640mm"
+   height="480mm"
+   viewBox="0 0 640 480"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="title_text.svg"
+   inkscape:export-filename="..\bin\data\textures\title_text.png"
+   inkscape:export-xdpi="25.4"
+   inkscape:export-ydpi="25.4"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.19461443"
+     inkscape:cx="644.86483"
+     inkscape:cy="53.952834"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:70.55560131px;font-family:Courant;-inkscape-font-specification:'Courant, Bold';text-align:center;text-anchor:middle;white-space:pre;inline-size:362.981;fill:#000080;fill-opacity:0.701245;stroke:#6c6753;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="178.74042"
+       y="88.442345"
+       id="text236"
+       transform="translate(141.76544,-32.310464)"><tspan
+         x="178.74042"
+         y="88.442345"
+         id="tspan1078"><tspan
+           style="fill:#808080"
+           id="tspan1076">Fall 
+</tspan></tspan><tspan
+         x="178.74042"
+         y="176.63685"
+         id="tspan1082"><tspan
+           style="fill:#808080"
+           id="tspan1080">Into
+</tspan></tspan><tspan
+         x="178.74042"
+         y="264.83136"
+         id="tspan1086"><tspan
+           style="fill:#808080"
+           id="tspan1084">Pit</tspan></tspan></text>
+  </g>
+</svg>

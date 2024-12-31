@@ -1,0 +1,29 @@
+Import("env")
+
+
+def source(file):
+    return "#/src/" + file
+
+env["source_files"] += [
+    source("main.cpp"),
+    source("app.cpp"),
+    source("input.cpp"),
+    source("render.cpp"),
+    source("sound.cpp"),
+    source("collision.cpp"),
+    source("state.cpp"),
+    source("gui.cpp"),
+    source("game.cpp"),
+    source("player.cpp"),
+    source("spikes.cpp"),
+    source("coins.cpp"),
+    source("hearts.cpp"),
+    source("backgrounds.cpp"),
+    source("timer.cpp"),
+    source("level.cpp"),
+    source("menu_state.cpp"),
+    source("game_state.cpp")
+]
+
+
+SConscript("#/src/3rd/SConscript", exports="env")
