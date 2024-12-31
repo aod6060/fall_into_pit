@@ -1,6 +1,6 @@
 # Fall into Pit
 
-![title]("https://github.com/aod6060/fall_into_pit/content/title_text.png")
+![title](https://github.com/aod6060/fall_into_pit/content/title_text.png)
 
 Fall into Pit is a simple little game that I've been working on for the past couple of weeks. The reason why I'm working on 
 this project instead of working on DSGE is because something felt off when working on. I decided to work on a small game project
