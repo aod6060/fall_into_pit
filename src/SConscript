@@ -26,4 +26,4 @@ env["source_files"] += [
 ]
 
 
-SConscript("#/src/3rd/SConscript", exports="env")
+SConscript("#/src/imgui/SConscript", exports="env")
