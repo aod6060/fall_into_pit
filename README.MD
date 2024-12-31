@@ -19,7 +19,7 @@ and keep this game small so I can get it released. The game will also be opensou
 
 Oh, I did forget to share this trivia. This game is based on a Trijam 13 theme "Falling in [blank] <- you pick" which what imspired me to create this little game project. I'm also going to give a bit of advice when coming up with a simple game project. If your having trouble coming up with an idea for a game take a look at some of the game jam themes from Trijam or other game jams for insperation. If usally get quite a bit of fun gameplay ideas by simply writing the game jam theme and writing ideas about it on paper first before even touching the keyboard. Its actually bit of a pychological trick because when your writing your ideas down you'll gain insight due to kinematic learning. I've written so many notebooks for the past few years that I can probably fill a bookshelf with them. 
 
-![screen_shop5](content/image_05.png")
+![screen_shot5](content/image_05.png)
 
 
 Copyright 2024-2025 Frederick R. Cook
@@ -30,4 +30,4 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-![screen_shop5](content/image_06.png")
+![screen_shot5](content/image_06.png)
